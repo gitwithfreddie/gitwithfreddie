@@ -1,8 +1,23 @@
-- 👋 Hi, I’m @gitwithfreddie
-- 👀 I’m interested in music, fitness, and all things nerd!
-- 🌱 I’m currently learning Pyhton, Data Analysis, and how to use GH and Git.
-- 💞️ I’m looking to collaborate on future projects! More to come as I learn.
-- 📫 How to reach me - shoot me a message here, or an email works too. fgarnettpro@gmail.com. I look forward to meeting you!
+# Welcome to my GitHub Page!
+
+```python
+
+- 👋 Hi, I’m Freddie!
+
+- 👀 My interests include music, fitness, and all things nerd!
+
+- 🌱 Currently learning: 
+              Pyhton 
+              Data Analysis 
+              How to use GH and Git.
+- 💞️ Future plans and goals:
+              a better understanding of how all this works
+              application of the skills leanred in the real world
+- 📫 How to reach me:
+              -fgarnettpro@gmail.com
+              -linkedin.com/fgarnettpro
+ 
+ # I look forward to meeting and working with you! 
 
 <!---
 gitwithfreddie/gitwithfreddie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
